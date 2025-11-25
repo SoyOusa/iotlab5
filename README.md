@@ -31,6 +31,7 @@ Grafana Cloud / Local InfluxDB
 
 4. Mobile App Layout
 MIT app interface:
+
 ![Image](https://github.com/user-attachments/assets/733f3104-b2cb-43d9-934b-1fb6b20544b1)
 
 URLs that are used for the MIT app inventor:
