@@ -47,3 +47,15 @@ The Grafana dashboard uses a Time Series panel to display motor speed and comman
 7. Reflection & Latency
    
 During this lab, the mobile app successfully controlled the DC motor via ESP32, and all actions were logged to InfluxDB and displayed on Grafana. The response from the motor had a small delay of about 200–500 ms, mainly due to Wi-Fi network latency and HTTP request processing. Overall, the system worked reliably, but using WebSockets or async code could improve real-time performance. This lab provided valuable experience in integrating hardware, software, and cloud dashboards for IoT control.
+
+#Thonny Terminal:
+<img width="950" height="809" alt="image" src="https://github.com/user-attachments/assets/cd75805e-17fa-4719-a6d5-dbc42cdafe46" />
+#Influxdb:
+<img width="1063" height="818" alt="image" src="https://github.com/user-attachments/assets/9b2ddd7c-e42b-427d-a7ff-63d67f818079" />
+
+#Motor Control using MIT App Inventor video: 
+https://youtube.com/shorts/N0eKwn2-lcY?feature=share
+
+#Real time Grafana Dashboard:
+https://youtu.be/AIV7n6Pv2tY
+
